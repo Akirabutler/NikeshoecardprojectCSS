@@ -1,0 +1,29 @@
+<div id="container">
+  <article id="card">
+    <header>
+      <img
+       id="nikeLogo"    src="https://wallpapercave.com/wp/CgjGnw0.jpg" alt="">
+      <span id="nike" class="subhead">Nike</span>
+    </header>
+    <img id="shoe" src="https://archinect.imgix.net/uploads/24/241a53c5aaff5d10e32e40ad8111d370.jpg?auto=compress%2Cformat" alt="">
+    <section>
+      <div id="description">
+        <span id="retail" class="subhead">Retail</span><span id="time" class="faded">2d ago</span>
+      </div>
+      <div id="location">
+        <img src="https://image.flaticon.com/icons/svg/64/64113.svg" alt="">
+        <span class="faded">Tokyo,Japan</span>
+      </div>
+      <div id="tags">
+        <ul>
+          <li>Advertising</li>
+          <li>Widget</li>
+        </ul>
+      </div>
+    </section>
+    <footer>
+      <p>Description</p>
+      <p class="faded">Look at these pretty shoes.Don't you wanna be dripped out and stand out from the rest of the crowd? well get these nike air max's </p>
+    </footer>
+  </article>
+</div>
